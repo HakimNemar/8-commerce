@@ -1,7 +1,7 @@
 Projet e-commerce fait par le 8 développeurs étudiants\
 Dans le cadre de la formation Samsung Campus.\
 #1 Victoire Marketing descerné par l'ESSEC Business School.\
-Langages: Reactjs, Redux et Symfony.
+Langages: Reactjs, Redux et Symfony.\
 ##[Live Demo](https://e-8commerce-client.herokuapp.com/)
 
 Audrey Claris:
