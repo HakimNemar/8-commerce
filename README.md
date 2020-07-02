@@ -3,35 +3,34 @@ Dans le cadre de la formation Samsung Campus.
 #1 Victoire Marketing descerné par l'ESSEC Business School.
 Langages: Reactjs, Redux et Symfony.
 
-Audrey Claris:
+Audrey Claris:\
+- https://www.linkedin.com/in/audrey-claris-63a775151/
+- https://github.com/audrey-cla
 
-https://www.linkedin.com/in/audrey-claris-63a775151/
-https://github.com/audrey-cla
-Antonio Tina:
+Antonio Tina:\
+- https://www.linkedin.com/in/antonio-tina-727b781a7/
+- https://github.com/antoniotina
 
-https://www.linkedin.com/in/antonio-tina-727b781a7/
-https://github.com/antoniotina
-Andriy Shakh:
+Andriy Shakh:\
+- https://www.linkedin.com/in/andriyshakh/
+- https://github.com/andriy5
 
-https://www.linkedin.com/in/andriyshakh/
-https://github.com/andriy5
-Faudel Hadroug:
+Faudel Hadroug:\
+- https://www.linkedin.com/in/faudel-hadroug/
+- https://github.com/Faudelhadroug/
 
-https://www.linkedin.com/in/faudel-hadroug/
-https://github.com/Faudelhadroug/
-Hao-Nhien Nguyen:
+Hao-Nhien Nguyen:\
+- https://www.linkedin.com/in/hao-nhien-nguyen-5198701aa/
+- https://github.com/HaoNhien-NGUY
 
-https://www.linkedin.com/in/hao-nhien-nguyen-5198701aa/
-https://github.com/HaoNhien-NGUY
-Hakim Nemar:
+Hakim Nemar:\
+- https://www.linkedin.com/in/hakim-nemar/
+- https://github.com/HakimNemar
 
-https://www.linkedin.com/in/hakim-nemar/
-https://github.com/HakimNemar
-Nordine el-Barkaoui:
+Nordine el-Barkaoui:\
+- https://www.linkedin.com/in/nordine-el-barkaoui-90ab291a6/
+- https://github.com/Elbarkaoui-Nordine
 
-https://www.linkedin.com/in/nordine-el-barkaoui-90ab291a6/
-https://github.com/Elbarkaoui-Nordine
-Victor Reyes
-
-https://www.linkedin.com/in/reyes-victor/
-https://github.com/reyesvictor
+Victor Reyes\
+- https://www.linkedin.com/in/reyes-victor/
+- https://github.com/reyesvictor
